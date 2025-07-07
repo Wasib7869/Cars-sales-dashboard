@@ -42,4 +42,4 @@ Time Series Data: Annual sales figures for trend analysis.
 📌 Likely sourced from Excel, CSV, or an internal ERP/CRM system.
 
 🖼️ Screenshot Reference:
-Example:
+Example:https://github.com/Wasib7869/Cars-sales-dashboard/blob/main/Snapshot%20of%20cars%20sales.png
